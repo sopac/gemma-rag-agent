@@ -8,8 +8,8 @@ This repository enables standing up a local LLM service with Gemma3 that indexes
 
 - eg: Summarise all papers on satellite derived bathymetry - and prepare a white paper on pros and cons of each methodology.
 - eg: When is Nick's contract due?
-- eg: Prepare a summary of all communications and paperwork for RFP 34424.
-- eg: What is SPC's policy on airline club membership.
+- eg: Prepare an executive summary of all communications and paperwork for RFP 34424.
+- eg: What is SPC's policy on airline club membership?
 
 There is zero-leakage to the internet post-setup, and this tool can be used without any internet connectivity.
 
