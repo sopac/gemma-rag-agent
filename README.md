@@ -49,6 +49,10 @@ Within your terminal run -
 
 This process will take several hours, so best to let it run overnight.
 
+### Start LocalLLM
+
+`ollama serve`
+
 ### Query 
 Within your terminal run -
 
