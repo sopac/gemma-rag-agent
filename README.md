@@ -63,3 +63,5 @@ Exit the query tool with `\q`. There is a context mechanism present, so you can 
 ### System Requirements
 
 16Gb+ RAM
+Dedicated GPU (NVIDIA/AMD/Apple M Series)
+
